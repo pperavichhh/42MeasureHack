@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/42Measure-master.dia",
+    "emit-module-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/42Measure-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/42Measure-master-emit-module.dia",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/42Measure-master.swiftdeps"
+  },
+  "/Users/psamer/Code/42Measure/42Measure/ViewController.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/ARViewContainer.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ARViewContainer~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/ContentView.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/CrosshairView.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/CrosshairView~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/HomeView.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/IntroductionViewController.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/IntroductionViewController~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/SwiftUIApp.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/SwiftUIApp~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/WelcomViewController.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42Measure.build/Objects-normal/arm64/WelcomViewController~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/42MeasureUITests-master.dia",
+    "emit-module-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/42MeasureUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/42MeasureUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/42MeasureUITests-master.swiftdeps"
+  },
+  "/Users/psamer/Code/42Measure/42MeasureUITests/_2MeasureUITests.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITests~partial.swiftmodule"
+  },
+  "/Users/psamer/Code/42Measure/42MeasureUITests/_2MeasureUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.d",
+    "diagnostics" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.bc",
+    "object" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/psamer/Code/42Measure/build/42Measure.build/Debug-iphoneos/42MeasureUITests.build/Objects-normal/arm64/_2MeasureUITestsLaunchTests~partial.swiftmodule"
+  }
+}

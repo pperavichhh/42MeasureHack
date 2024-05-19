@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target '42MeasureUITests' in project '42Measure'
+➜ Explicit dependency on target '42Measure' in project '42Measure'
+Target '42MeasureTests' in project '42Measure'
+➜ Explicit dependency on target '42Measure' in project '42Measure'
+Target '42Measure' in project '42Measure' (no dependencies)
